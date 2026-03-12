@@ -38,8 +38,6 @@ When I login with  valid username and password
 Then I click  on profile button
 And  I verify the bio is displayed correctly
 
-'
-
 
 
 
